@@ -32,7 +32,7 @@ To get started with the DTMF Car Control Project, follow these steps:
 5. Place the mobile phone or landline phone near the DTMF decoder module to receive the DTMF signals.
 6. Dial the designated phone number and use the phone's keypad to generate DTMF tones for controlling the car.
 
-**[Robot While Moving](https://drive.google.com/file/d/1MkTyPqT7drrVki1eYvzhlTXANotOzHaV/view?usp=sharing)**.
+**[Robot While Moving](https://drive.google.com/file/d/1MkTyPqT7drrVki1eYvzhlTXANotOzHaV/view?usp=sharing)**
 
 **Note**: I'm sorry that the project circuit isn't available
 
