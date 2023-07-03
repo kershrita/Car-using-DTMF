@@ -28,10 +28,14 @@ To get started with the DTMF Car Control Project, follow these steps:
 	- 1 * Motor Driver
 	- 2 * Mobile phone or landline phone capable of generating DTMF tones
 
-3. Upload the Arduino sketch to the Arduino board.
-4. Power on the Arduino board and ensure that the DTMF decoder module is functioning correctly.
-5. Place the mobile phone or landline phone near the DTMF decoder module to receive the DTMF signals.
-6. Dial the designated phone number and use the phone's keypad to generate DTMF tones for controlling the car.
+4. Clone or Download the repository to your local machine using the following command:
+```
+git clone https://github.com/kershrita/Car-using-DTMF.git
+```
+5. Upload the Arduino sketch to the Arduino board.
+6. Power on the Arduino board and ensure that the DTMF decoder module is functioning correctly.
+7. Place the mobile phone or landline phone near the DTMF decoder module to receive the DTMF signals.
+8. Dial the designated phone number and use the phone's keypad to generate DTMF tones for controlling the car.
 
 **Note**: I'm sorry that the project circuit isn't available
 
@@ -41,10 +45,10 @@ Once the DTMF Car Control system is set up, you can control the car's movements 
 
 1. Dial the designated phone number connected to the DTMF Car Control system.
 2. Use the phone's keypad to generate DTMF tones corresponding to the desired car movements:
-- Press "2" to move the car forward.
-- Press "4" to turn the car left.
-- Press "6" to turn the car right.
-- Press "8" to move the car backward.
+	- Press "2" to move the car forward.
+	- Press "4" to turn the car left.
+	- Press "6" to turn the car right.
+	- Press "8" to move the car backward.
 3. The DTMF decoder module will interpret the received DTMF tones and send corresponding signals to the Arduino.
 4. The Arduino will process the signals and control the motor driver module to perform the desired car movements.
 
