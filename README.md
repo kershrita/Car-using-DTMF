@@ -22,7 +22,7 @@ To get started with the DTMF Car Control Project, follow these steps:
 
 1. Connect the DTMF decoder module to the Arduino board.
 2. Connect the motor driver module to the Arduino board and wire it to the car's motors.
-3. Components
+3. Components:
 	- 1 * Arduino Nano
 	- 1 * DTMF Module
 	- 1 * Motor Driver
