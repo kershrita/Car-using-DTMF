@@ -10,7 +10,6 @@ The DTMF Car Control Project combines telecommunications technology with a remot
 - [Usage](#usage)
 - [Features](#features)
 - [Configuration](#configuration)
-- [Documentation](#documentation)
 - [Acknowledgments](#acknowledgments)
 - [Contributing](#contributing)
 - [License](#license)
