@@ -25,6 +25,7 @@ To get started with the DTMF Car Control Project, follow these steps:
 	- 1 * Arduino Nano
 	- 1 * DTMF Module
 	- 1 * Motor Driver
+	- 4 * Wheels
 	- 2 * Mobile phone or landline phone capable of generating DTMF tones
 
 4. Clone or Download the repository to your local machine using the following command:
